@@ -59,7 +59,6 @@ const personaMovieDB = {
     toggleVisibleMyDB: function (){
         personaMovieDB.privat = !personaMovieDB.privat;
     }
-
 };
 
 
